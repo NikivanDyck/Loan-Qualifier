@@ -1,6 +1,6 @@
 # Loan Qualifier Application 
 
-![home, money image](Module_2_Challenge\Starter_Code\loan_qualifier_app\data\Home Image.png)
+![home, money image](Home Image.png)
 
 The loan qualifier application will allow users to input key data points to quickly obtain a list of qualified loans.  Using the qualifier application to find qualified loans will have a time benefit for home loan service  professionals ultimately providing a better customer experience. 
 
