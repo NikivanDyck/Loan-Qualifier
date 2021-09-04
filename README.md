@@ -22,7 +22,7 @@ The application relies on a daily rate sheet of banking vendors.  The data is th
 ---
 ## Technology Mapping
 
-![<altetxt> (<Module_2_Challenge\Starter_Code\loan_qualifier_app\data\mapping.PNG>)]
+![<altetxt> (https://github.com/NikivanDyck/Loan-Qualifier/commit/0d1dc349f6bf742fde01bab1a999573fc0f75a21?short_path=3fa3fcc#diff-3fa3fcc742617156424ccf2ab4898a891790f09b101bd8be821552828621ecc4)]
 
 ---
 ## Definitions
