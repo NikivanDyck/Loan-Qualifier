@@ -1,7 +1,7 @@
 # Loan Qualifier Application 
 
 ![home, money image](https://www.crcu.org/assets/files/CS5QBqdL/CalculatorandHand1330x400.png)
-### The application will allow users to input key data points to quickly obtain a list of qualified loans.  The application can be used mortgage brokers and loan servicing professionals, to support their customers 
+### The Loan Qualifier Application will allow users to input key data points to quickly obtain a list of qualified loans.  The application can be used mortgage brokers and loan servicing professionals, to support their customers 
 
 ---
 ## User Expectations 
