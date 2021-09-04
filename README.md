@@ -17,34 +17,28 @@ The loan qualifier application will allow users to input key data points to quic
 ## Technology Overview
 
 The application relies on a daily rate sheet of banking vendors.  The data is then parsed into 4 different qualifying filters to review borrows criteria.  1) Credit Score 2) Debt to Income 3) Loan to Value 4) Max Loan size.   (Criteria definitions in Appendix A).   Utilities required for calculations used to determine loan to value and debt to income are held within “calculations”.  Tools used to read and save CSV data are stored in “fileio”.  
-*It is imperative that daily rates sheet are updated daily information for the loan qualifier application to be accurate.   
+```
+Tip:  Update the "daily rates sheet" for the loan qualifier application to be accurate.
+```
 
 ---
 ## Technology Mapping
 
-![<diagram of app mapping> (mapping.PNG)]
+![<diagram of app mapping> (https://github.com/NikivanDyck/Loan-Qualifier/main/mapping.PNG)]  
 
 ---
 ## Definitions
 
-*Credit Score:* 
-	The applicants credit score ass reported by the credit bureau
-*Loan to Value Ratio (LTV):* 
-    The % of home value the applicant to requesting.    
-    Loan to Value = Loan Amount / Home Value
-*Debt to Income Ratio (DTI):*
-    The % of free cash the applicant has available.     
-    Debt to Income = Monthly Debt Payments / Monthly Income
-*Monthly Debt Payment:* 
-    The applicants total monthly debt
-*Monthly Income:* 
-    The applicants total monthly income
-*Loan Amount:* 
-    The requested loan amount
-*Home Value:* 
-    The homes market value
-*Max Loan Size:* 
-	The maximum amount a bank will lend
+| Term | Description | Calculation/ or Value |	
+| :--- | :--- | :---: |
+|*Credit Score*| The applicants credit score ass reported by the credit bureau | Value | 
+|*Loan to Value Ratio (LTV)*|The % of home value the applicant to requesting. | Loan to Value = Loan Amount / Home Value |
+|*Debt to Income Ratio (DTI)*|The % of free cash the applicant has available.|Debt to Income = Monthly Debt Payments / Monthly Income |
+|*Monthly Debt Payment*|The applicants total monthly debt| Value | 
+|*Monthly Income:*|The applicants total monthly income| Value | 
+|*Loan Amount*|The requested loan amount| Value | 
+|*Home Value*|The homes market value| Value | 
+|*Max Loan Size*|The maximum amount a bank will lend| Value | 
 
 ---
 
