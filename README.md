@@ -23,7 +23,7 @@ Tip:  Update the "daily rates sheet" for the loan qualifier application to be ac
 ---
 ## Technology Mapping
 
-![<diagram of app mapping> (https://github.com/NikivanDyck/Loan-Qualifier/main/mapping.PNG)]  
+![<diagram of app mapping> (https://github.com/NikivanDyck/Loan-Qualifier/blob/main/mapping.PNG)]  
 
 ---
 ## Definitions
