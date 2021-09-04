@@ -16,7 +16,7 @@ The loan qualifier application will allow users to input key data points to quic
 ---
 ## Technology Overview
 
-The application relies on a daily rate sheet of banking vendors.  The data is then parsed into 4 different qualifying filters to review borrows criteria.  1) Credit Score 2) Debt to Income 3) Loan to Value 4) Max Loan size.   (Criteria definitions in Appendix A).   Utilities required for calculations used to determine loan to value and debt to income are held within “calculations”.  Tools used to read and save CSV data are stored in “fileio”.  
+The application relies on a daily rate sheet of banking vendors.  The data is then parsed into 4 different qualifying filters to review applicants criteria.  1) Credit Score 2) Debt to Income 3) Loan to Value 4) Max Loan size. (criteria definitions in Appendix A).   Utilities required for calculations used to determine loan to value and debt to income are held within “calculations”.  Tools used to read and save CSV data are stored in “fileio”.  The applicatication is to run in appy. 
 ```
 Tip:  Update the "daily rates sheet" for the loan qualifier application to be accurate.
 ```
